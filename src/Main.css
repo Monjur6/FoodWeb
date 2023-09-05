@@ -1,0 +1,38 @@
+:root {
+    --primaryColor: #371B17;
+    --shadowColor: #371b178f;
+}
+
+/* textField */
+label#outlined-multiline-flexible-label {
+    color: var(--primaryColor);
+}
+
+label#outlined-multiline-static-label {
+    color: var(--primaryColor);
+}
+
+label#outlined-basic-label {
+    color: var(--primaryColor);
+}
+
+label#outlined-number-label {
+    color: var(--primaryColor);
+}
+
+/* End textField */
+
+/* AutoComplete */
+label#tags-outlined-label.Mui-focused {
+    color: var(--primaryColor);
+}
+
+/* End AutoComplete */
+
+/* FieldSet for all component */
+
+fieldset.MuiOutlinedInput-notchedOutline {
+    border-color: #371b178f !important;
+}
+
+/* End FieldSet for all component */

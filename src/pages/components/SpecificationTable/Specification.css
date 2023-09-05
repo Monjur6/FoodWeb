@@ -1,0 +1,46 @@
+.specificationDialog .MuiDataGrid-footerContainer{
+    display: none !important;
+}
+.center-align {
+  text-align: center;
+}
+.SpecificationHeader{
+    background-color: #e7e7e9;
+    text-align: center !important;
+}
+.SpecificationGridSel{
+    display: flex !important;
+    justify-content: center !important;
+}
+.specificationDialog .css-vqmohf-MuiButtonBase-root-MuiRadio-root.Mui-checked{
+    color: #371B17 !important;
+}
+.textColor{
+    color: #371B17 !important;
+}
+.specificationDialog .css-1jy569b-MuiFormLabel-root-MuiInputLabel-root.Mui-focused, .css-1cdkhh3-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+    color: #371B17 !important;
+}
+.specificationDialog .css-axafay-MuiDataGrid-virtualScroller{
+    overflow: hidden;
+}
+.specificationDialog .css-hlj6pa-MuiDialogActions-root {
+    padding: 8px 25px 25px;
+}
+.specificationDialog .btn{
+    border: 2px solid #371B17;
+    width: 6rem;
+    border-radius: 5px;
+    text-align: center;
+}
+.specificationDialog .MuiDataGrid-columnHeaderTitleContainer{
+    display: flex;
+    justify-content: center;
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+    width: 40rem !important;
+    max-width: none !important;
+}
+.gridSpecificationContainer{
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,19 @@
+.AddItemplusIcon {
+  padding-left: 5px;
+  padding-top: 7px;
+  cursor: pointer;
+}
+.AddItemplusIcon img {
+  width: 2rem;
+}
+.AddItemButtons {
+  width: 7rem;
+  height: 2rem;
+  border: 2px solid #371b17 !important;
+  color: #371b17 !important;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+.addSectionDialog .css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+  width: 50rem !important;
+  max-width: none !important;
+}
